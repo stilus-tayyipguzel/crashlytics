@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008366427234",
+    "project_id": "firenew-99d95",
+    "storage_bucket": "firenew-99d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008366427234:android:b7e94fd890a28b4295c53b",
+        "android_client_info": {
+          "package_name": "com.stilus.firecrash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEVcbnV-qLj_o8zzzNMnHifpDZQUcYsdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008366427234:android:8d3b226145344a8795c53b",
+        "android_client_info": {
+          "package_name": "com.stilus.firenew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEVcbnV-qLj_o8zzzNMnHifpDZQUcYsdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
